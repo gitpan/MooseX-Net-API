@@ -1,0 +1,21 @@
+Revision history for Perl extension MooseX::Net::API
+
+0.06    Sun 20 Dec 2009 05:17:49 PM CET  
+        - mainly cleaning and POD
+
+0.05    Wed 09 Dec 2009 11:01:54 AM CET  
+        - missing try::tiny
+
+0.04    Wed 09 Dec 2009 10:58:04 AM CET  
+        - some cleaning in roles
+
+0.03    Tue 08 Dec 2009 04:22:45 PM CET  
+        - move some code in roles
+        - add code to use catalyst in tests
+
+0.02    Tue 08 Dec 2009 10:36:03 AM CET  
+        - api_base_url is optional
+        - add tests to play with catalyst
+
+0.01    Mon Nov 23 14:54:25 2009
+        - original version
