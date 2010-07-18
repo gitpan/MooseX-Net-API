@@ -1,27 +1,20 @@
-This is Perl module MooseX::Net::API.
+NAME
+    MooseX::Net::API - Easily create client for net API (DEPRECATED)
 
-INSTALLATION
+VERSION
+    version 0.12
 
-MooseX::Net::API installation is straightforward. If your CPAN shell is set up,
-you should just be able to do
+SYNOPSIS
+    DEPRECATED
 
-    % cpan MooseX::Net::API
+    THIS MODULE IS BEING DEPRECATED IN FAVOUR OF Net::HTTP::API.
 
-Download it, unpack it, then build it as per the usual:
+AUTHOR
+      franck cuny <franck@lumberjaph.net>
 
-    % perl Makefile.PL
-    % make && make test
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2010 by linkfluence.
 
-Then install it:
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
 
-    % make install
-
-DOCUMENTATION
-
-MooseX::Net::API documentation is available as in POD. So you can do:
-
-    % perldoc MooseX::Net::API
-
-to read the documentation online with your favorite pager.
-
-franck cuny
